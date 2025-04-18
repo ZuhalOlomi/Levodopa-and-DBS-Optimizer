@@ -6,7 +6,7 @@ Repo still under construction...
 
  | Research Proposal Manuscript | Scientific Poster |
 | --------------------------- | ----------------- |
-| <a href="Dynamic%20DBS%20and%20Levodopa%20Optimization%20Model_Predicting%20and%20Optimizing%20Dopaminergic%20Response%20from%20Levodopa%20Intake.pdf">Research Proposal Manuscript</a> | [Scientific Poster](https://github.com/ZuhalOlomi/Levodopa-and-DBS-Optimizer/blob/master/Zuhal_Olomi_Poster.pdf) |
+| <a href="manuscript.pdf">Research Proposal Manuscript</a> | <a href="poster.pdf">Scientific Poster</a> |
 
 
 
